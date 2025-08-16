@@ -1,6 +1,6 @@
 # Karmada
 
-![Karmada-logo](docs/images/Karmada-logo-horizontal-color.png).
+![Karmada-logo](docs/images/Karmada-logo-horizontal-color.png)..
 
 
 [![LICENSE](https://img.shields.io/github/license/karmada-io/karmada.svg)](/LICENSE)
